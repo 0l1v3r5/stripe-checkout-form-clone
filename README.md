@@ -2,7 +2,4 @@
 
 WIP
 
-Built with:
-
-- [TailwindCSS](https://tailwindcss.com/)
-- [Vite](https://vitejs.dev/)
+Built with [TailwindCSS](https://tailwindcss.com/), [AlpineJS](https://alpinejs.dev/) and [Vite](https://vitejs.dev/)

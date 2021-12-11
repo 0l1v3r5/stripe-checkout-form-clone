@@ -9,7 +9,7 @@ module.exports = {
         sans: [...defaultTheme.fontFamily.sans],
       },
       colors: {
-        primary: colors.indigo,
+        primary: "#009688",
       },
     },
   },
